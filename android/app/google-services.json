@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536528549262",
+    "project_id": "tsd-it",
+    "storage_bucket": "tsd-it.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536528549262:android:37539061e475cbd761e0df",
+        "android_client_info": {
+          "package_name": "com.satti.tsd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6UcG7lkN2o6wTO1qBKlrNfSuUSZT1_go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

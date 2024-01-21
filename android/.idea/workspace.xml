@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46735159-e989-4ed5-b3e0-7bb8289c0d06" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ios/Geolocation/Geolocation.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Geolocation/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Geolocation/LocationPushService.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Location Updates/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Location Updates/LocationPushService.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-120x120@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/LaunchImage.imageset/app_icon 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/LaunchImage.imageset/app_icon 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/LaunchImage.imageset/app_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Runner/Runner.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/push/Base.lproj/MainInterface.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/push/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/push/NotificationViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/push_notification/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/push_notification/NotificationService.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-50x50@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-50x50@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-57x57@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-57x57@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-72x72@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-72x72@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/GoogleService-Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/RunnerProfile.entitlements" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/RunnerProfile.entitlements" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/core/platform/network_helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/core/platform/network_helper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/data/datasource/remote/accept_containers_remote_ds.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/data/datasource/remote/accept_containers_remote_ds.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/data/datasource/remote/auth_remote_ds.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/data/datasource/remote/auth_remote_ds.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/data/repositories/accept_containers_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/data/repositories/accept_containers_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/firebase_options.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/firebase_options.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/screens/accept_containers/bloc/accept_cont_qr_cubit/accept_cont_qr_cubit.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/screens/accept_containers/bloc/accept_cont_qr_cubit/accept_cont_qr_cubit.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/screens/accept_containers/bloc/accept_cont_qr_cubit/accept_cont_qr_state.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/screens/accept_containers/bloc/accept_cont_qr_cubit/accept_cont_qr_state.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/screens/accept_containers/ui/accept_cont_qr_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/screens/accept_containers/ui/accept_cont_qr_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/screens/auth/bloc/sign_in_cubit.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/screens/auth/bloc/sign_in_cubit.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/screens/auth/ui/sign_in/signin_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/screens/auth/ui/sign_in/signin_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/screens/refund_containers/bloc/refund_container_cubit.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/screens/refund_containers/bloc/refund_container_cubit.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/screens/refund_containers/ui/refund_containers_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/screens/refund_containers/ui/refund_containers_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/widgets/barcode_scanner_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/widgets/barcode_scanner_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2b4WyPu3YdpC9Yi0XpFdEnGHCSc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46735159-e989-4ed5-b3e0-7bb8289c0d06" name="Changes" comment="" />
+      <created>1705475084772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705475084772</updated>
+    </task>
+    <servers />
+  </component>
+</project>
